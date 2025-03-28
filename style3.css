@@ -19,14 +19,5 @@
    .trinhdon a: hover {color: pink; background-color:blue;
       padding: 10px;
     }
-   .noidung { 
-      float: left;
-      padding:12px; 
-   }
-   .noidung.left { 
-      width: 35%;
-   }
-   .noidung.right {
-      width: 65%;
-   }
+
 
