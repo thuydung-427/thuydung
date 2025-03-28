@@ -3,7 +3,7 @@
   height: 100%;
 }
 .header {
-  background-color: #FF99CC;
+  background-color: lightgray;
   text-align: center;
   padding: 20px;
 }
@@ -25,8 +25,8 @@
 
 /* Links - change color on hover */
 .topnav a:hover {
-  background-color: #DCDCDC;
-  color: Lightyellow;
+  background-color: black;
+  color: lightyellow;
 }
 .footer {
   background-color: #98FB98;
