@@ -3,47 +3,47 @@
   height: 100%;
 }
 .header {
-  background-color: #F1F1F1;
+  background-color: #FF99CC;
   text-align: center;
   padding: 20px;
 }
 /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #0099FF;
 }
 
 /* Navbar links */
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #CC99FF;
   text-align: center;
-  padding: 14px 16px;
+  padding: 15px 17px;
   text-decoration: none;
 }
 
 /* Links - change color on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #DCDCDC;
+  color: #Lightyellow;
 }
 .footer {
-  background-color: #F1F1F1;
+  background-color: #98FB98;
   text-align: center;
-  padding: 10px;
+  padding: 12px;
 }
 .content
 {
   float: left;
-  padding: 10px;
+  padding: 12px;
 }
 .content.left {
-  width: 30%;
+  width: 35%;
 }
 
 .content.right {
-  width: 70%;
+  width: 65%;
 }
 
 .row::after {
