@@ -10,7 +10,7 @@
 /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: #0099FF;
+  background-color: #255;
 }
 
 /* Navbar links */
@@ -26,7 +26,7 @@
 /* Links - change color on hover */
 .topnav a:hover {
   background-color: #DCDCDC;
-  color: #Lightyellow;
+  color: Lightyellow;
 }
 .footer {
   background-color: #98FB98;
