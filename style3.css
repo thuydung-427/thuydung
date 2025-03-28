@@ -1,4 +1,3 @@
-
    .size {
      width: 100%;
      height:100%;
@@ -6,11 +5,18 @@
    .phandau {color: yellow; background-color:green;
       padding: 20px; text-align:center;
     }
-   .trinhdon {color: pink; background-color:blue;
-      padding: 10px;
-    }
-   .trinhdon a: hover{}
-   .noidung {color: gray; background-color:black;
+   .trinhdon {
+     overflow:hidden;
+     background-color: gray
+   }
+   .trinhdon a {
+      float: right
+      display: block;
+      color: #f1f1f1
+      text-align: center;
+      padding: 13px 17px;
+   }
+   .trinhdon a: hover {color: pink; background-color:blue;
       padding: 10px;
     }
 
