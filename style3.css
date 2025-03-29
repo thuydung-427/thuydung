@@ -17,26 +17,26 @@
 .topnav a {
   float: left;
   display: block;
-  color: #FF3366;
+  color: #FF66CC;
   text-align: center;
-  padding: 15px 17px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
 /* Links - change color on hover */
 .topnav a:hover {
   background-color: black;
-  color: lightyellow;
+  color: gray;
 }
 .footer {
-  background-color: #98FB98;
+  background-color: #333;
   text-align: center;
-  padding: 12px;
+  padding: 10px;
 }
 .content
 {
   float: left;
-  padding: 12px;
+  padding: 10px;
 }
 .content.left {
   width: 30%;
