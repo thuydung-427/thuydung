@@ -17,7 +17,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #CC99FF;
+  color: #FF3366;
   text-align: center;
   padding: 15px 17px;
   text-decoration: none;
@@ -39,11 +39,11 @@
   padding: 12px;
 }
 .content.left {
-  width: 35%;
+  width: 30%;
 }
 
 .content.right {
-  width: 65%;
+  width: 70%;
 }
 
 .row::after {
